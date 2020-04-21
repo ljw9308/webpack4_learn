@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+    background: url("../images/logo.png") no-repeat;
+    background-size: cover;
+}
+.img{
+    width: 500px;
+    height: 375px;
+    background: url("../images/b.jpg") no-repeat;
+    background-size: cover;
+}
