@@ -1,0 +1,1 @@
+console.log("压缩html和js代码")
